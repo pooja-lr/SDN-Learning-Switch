@@ -130,19 +130,19 @@ iperf
 ## 📸 Screenshots (Proof of Execution)
 
 ### Controller Running
-![Controller](images/controller.png)
+![Controller](images/controller.jpeg)
 
 ### Mininet Topology
-![Topology](images/topology.png)
+![Topology](images/topology.jpeg)
 
 ### Ping Test
-![Pingall](images/pingall.png)
+![Pingall](images/pingall.jpeg)
 
 ### Manual Ping
-![Manual Ping](images/manual_ping.png)
+![Manual Ping](images/manual_ping.jpeg)
 
 ### Flow Table
-![Flow Table](images/flow_table.png)
+![Flow Table](images/flow_table.jpeg)
 
 ---
 
